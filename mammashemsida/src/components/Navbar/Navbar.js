@@ -3,10 +3,10 @@ export const Navbar = () => {
       <div className="wrapper">
         <ul>
           <li>
-            <a href="/">HEM</a>
+            <a href="/">Home</a>
           </li>
           <li >
-            <a href="/test">TEST</a>
+            <a href="/test">Test</a>
           </li>
         </ul>
       </div>
