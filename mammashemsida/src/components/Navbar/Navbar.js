@@ -3,7 +3,7 @@ export const Navbar = () => {
       <div className="wrapper">
         <ul>
           <li>
-            <a href="/">Home</a>
+            <a href="/">HOME</a>
           </li>
           <li >
             <a href="/test">Test</a>
