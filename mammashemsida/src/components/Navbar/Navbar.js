@@ -3,10 +3,19 @@ export const Navbar = () => {
       <div className="wrapper">
         <ul>
           <li>
-            <a href="/">HOME</a>
+            <a href="/">Hem</a>
           </li>
           <li >
-            <a href="/test">Test</a>
+            <a href="/services">Tjänster</a>
+          </li>
+          <li>
+             <a href="/about">Om HK Redovisning</a>
+          </li>
+          <li>
+            <a href="/references">Referenser & Omdömen</a>
+          </li>
+          <li>
+            *fixa en sökruta här*
           </li>
         </ul>
       </div>
