@@ -64,7 +64,7 @@ export const Services = () => {
         <footer>
             <div className = 'contact'>
                 <h2>Välkommen att ta kontakt!</h2>
-                    <p>E-post: *fixa email api*</p>
+                    <p>Epost: <a href="mailto:helen@hkredovisning.se">helen@hkredovisning.se</a></p>
                      <p>Telefon: 070-239 00 22</p>
             </div>
         </footer>
