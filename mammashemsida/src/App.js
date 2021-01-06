@@ -5,6 +5,7 @@ import {Home} from './components/Home/Home';
 import {Navbar} from './components/Navbar/Navbar';
 import {Services} from './components/Services/Services';
 import {About} from './components/About HK/About HK';
+import {CustomerReviews} from './components/Customer Reviews/CustomerReviews';
 
 function App() {
   return (
@@ -13,8 +14,9 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/Services" component={Services} />
-          <Route exact path="/About" component={About}/>
+          <Route exact path="/tjanster" component={Services} />
+          <Route exact path="/om hk-redovisning" component={About}/>
+          <Route exact path="/referenser-omdomen" component={CustomerReviews}/>
         </Switch>
       </Router>
     </div>  

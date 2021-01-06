@@ -1,3 +1,5 @@
+import './About HK.css';
+
 export const About = () => {
     return (
         <>

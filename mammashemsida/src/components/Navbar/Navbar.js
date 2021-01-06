@@ -1,3 +1,6 @@
+import React from 'react';
+import './Navbar.css';
+
 export const Navbar = () => {
     return (
       <div className="wrapper">
@@ -6,13 +9,13 @@ export const Navbar = () => {
             <a href="/">Hem</a>
           </li>
           <li >
-            <a href="/services">Tjänster</a>
+            <a href="/tjanster">Tjänster</a>
           </li>
           <li>
-             <a href="/about">Om HK Redovisning</a>
+             <a href="/om hk-redovisning">Om HK Redovisning</a>
           </li>
           <li>
-            <a href="/references">Referenser & Omdömen</a>
+            <a href="/referenser-omdomen">Referenser & Omdömen</a>
           </li>
           <li>
             *fixa en sökruta här*
