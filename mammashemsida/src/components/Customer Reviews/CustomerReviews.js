@@ -21,7 +21,7 @@ export const CustomerReviews = () => {
                 <br></br>
                 <br></br>
                 <div className = "gardasnickeri">
-                    *lägg till bild på företagslogo*
+                <a rel = "noreferrer noopener" href = "http://gardasnickeri.se" target = "_blank"><img src = "https://hkredovisning.se/wp-content/uploads/2020/02/Ga%CC%8ArdaSnickeri_logo_orange_mbakgrund-700x353.jpg" width = "350" height = "200" alt = "gardasnickeri"></img></a>
                     <p>“Helen hjälper mig att sova om nätterna, vetandes att allt i pappersväg är i ordning. Utan henne, inget företag!”</p>
                     <br></br>
                     <p>Victor Persvall</p>
@@ -30,7 +30,7 @@ export const CustomerReviews = () => {
                 <br></br>
                 <br></br>
                 <div className = "idrottskliniken">
-                    *lägg till bild på företagslogo*
+                <a rel = "noreferrer noopener" href = "http://ryggochidrottskliniken.com/" target = "_blank"><img src = "https://hkredovisning.se/wp-content/uploads/2020/03/Rygg-och-idrottsklinikiken-logo-700x247.png" width = "400" height = "150" alt = "rygg-idrottskliniken"></img></a>
                     <p>“Vi är väldigt nöjda med Helen som visat att ingen redovisningsfråga är för stor för att lösas på bästa sätt. Utan Helens hjälp hade vår ekonomi och verksamhet varit i kaos , hon ser till att vi kan fokusera på det vi är bra på. Vi rekommenderar starkt alla typer av ekonomisamarbete med Helen.”</p>
                     <br></br>
                     <p>Christian Sandström, VD</p>
@@ -39,7 +39,7 @@ export const CustomerReviews = () => {
                 <br></br>
                 <br></br>
                 <div className = "elji">
-                    *lägg till bild på företagslogo*
+                <a rel = "noreferrer noopener" href = "https://www.elji.se/" target = "_blank"><img src = "https://elji.se/sv/wp-content/uploads/2020/11/EljiLogo.jpg" width = "350" height = "150" alt = "elji"></img></a>
                     <p>“HK Redovisning är snabba och enkla att ha och göra med. Ordnar bokföring och löner utan att man behöver tänka på det.”</p>
                     <br></br>
                     <p>Lennart Jansson</p>
