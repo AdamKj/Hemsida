@@ -1,0 +1,16 @@
+
+.wrapper {
+    text-align: center;
+}
+
+.mr-auto {
+    color: rgb(14, 14, 14);
+    text-align: center;
+}
+
+.mr-auto :hover {
+    box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
+    border-radius: 10px;
+    transition-property: 20px;
+    transition-duration: 0.3s;
+  }
