@@ -1,16 +1,6 @@
 .bar {
-    float: center;
     vertical-align: baseline;
-    height: 100px;
-    
-}
-
-.mr-auto, .mx-auto {
-    
-}
-
-.mx-auto {
-    
+    height: 120px;
     
 }
 
@@ -19,9 +9,19 @@
     
 }
 
-.mx-auto :hover {
+.d-flex :hover {
     box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
     border-radius: 10px;
     transition-property: 20px;
     transition-duration: 0.3s;
+  }
+
+  .logo {
+    display: block;
+    height: 120px;
+    width: auto;
+  }
+
+  .link {
+    position: relative;
   }

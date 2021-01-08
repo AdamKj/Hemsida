@@ -10,12 +10,12 @@ export const Home = () => {
       </div>
     </header>
     <body>
-      <div className = 'info'>
+      <div className = 'text'>
        <h2>Personligt, proffessionellt och pålitligt</h2>
         <p>Tycker du att redovisning är krångligt och tar för mycket av din tid? Kanske tycker du rentav att redovisning är svårt? </p>
         <p>Det tycker inte vi, så låt oss hjälpa dig så att du istället kan fokusera på det <i>du</i> tycker är roligt, och det <i>du</i> är bäst på.</p>
      </div>
-    <div className = 'companyExpl'>
+    <div className = 'text'>
       <h2>Vi förenklar din vardag</h2>
         <p>HK Redovisning är en personlig redovisningsbyrå med erfaren personal och stort engagemang.</p>
         <p>Varje uppdrag anpassas efter just dina behov, förutsättningar och önskemål. Vi värdesätter nära kundrelationer och långsiktiga samarbeten.</p>

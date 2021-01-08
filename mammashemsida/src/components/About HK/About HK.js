@@ -1,3 +1,4 @@
+import React from 'react';
 import './About HK.css';
 
 export const About = () => {
@@ -9,8 +10,9 @@ export const About = () => {
                         <h1>Här kan du känna dig som hemma</h1>
                     </div>
                 </header>
+                <br/>
                 <body>
-                    <div className = "experience">
+                    <div className = "text">
                         <h2>Mångårig erfarenhet och personlig service</h2>
                             <p>Jag som driver HK Redovisning heter Helen Kjellberg.</p>
                             <br></br>
