@@ -1,14 +1,25 @@
-
-.wrapper {
-    text-align: center;
+.bar {
+    float: center;
+    vertical-align: baseline;
+    height: 100px;
+    
 }
 
-.mr-auto {
+.mr-auto, .mx-auto {
+    
+}
+
+.mx-auto {
+    
+    
+}
+
+.mx-auto {
     color: rgb(14, 14, 14);
-    text-align: center;
+    
 }
 
-.mr-auto :hover {
+.mx-auto :hover {
     box-shadow: 0 0 5px rgba(71, 71, 71, 0.2);
     border-radius: 10px;
     transition-property: 20px;
