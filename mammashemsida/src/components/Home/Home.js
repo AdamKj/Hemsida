@@ -8,6 +8,7 @@ export const Home = () => {
       <div className = 'wrapper'>
         <h1>Vi kan redovisning</h1>   
       </div>
+      
     </header>
     <body>
       <div className = 'text'>
