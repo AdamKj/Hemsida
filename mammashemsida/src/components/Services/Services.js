@@ -10,6 +10,7 @@ export const Services = () => {
                 <h1>Kvalificerade ekonomi- och redovisningstjänster</h1>
             </div>
         </header>
+        <br/>
         <body>
             <div className = "text">
                 <h2>Det här kan jag erbjuda</h2>

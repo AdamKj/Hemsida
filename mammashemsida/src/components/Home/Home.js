@@ -4,12 +4,10 @@ import './Home.css';
 export const Home = () => {
   return(  
     <>
-     <header> 
-      <div className = 'wrapper'>
-        <h1>Vi kan redovisning</h1>   
-      </div>
-      
-    </header>
+    <div className = "header">
+      <h1 class="font-weight-light">Vi kan redovisning</h1>
+    </div>
+    <br/>
     <body>
       <div className = 'text'>
        <h2>Personligt, proffessionellt och pålitligt</h2>
