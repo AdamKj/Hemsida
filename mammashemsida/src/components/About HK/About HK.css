@@ -1,9 +1,56 @@
-.wrapper {
-    padding-top: 250px;
+
+
+.row {
+    max-width: 1140px;
+    margin-right: auto !important;
+    margin-left: auto !important;
 }
 
-.text {
-    max-width: 1140px;
-    margin-right: auto;
-    margin-left: auto;
+
+.column {
+    float: left;
+    width: 50%;
+  }
+
+  .column.side {
+      width: 25%;
+  }
+
+  .column.middle {
+      width: 50%;
+  }
+
+  *, :after, :before {
+    box-sizing: inherit;
+}
+
+  .column:after {
+    content: "";
+    display: table;
+    clear: none;
+  }
+
+  .banner--contact .contact-card__image {
+    position: relative;
+    float: right;
+    width: 28%;
+    height: auto;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #fff;
+    z-index: 0;
+    margin-right: 100px;
+    padding-bottom: 28%;
+}
+
+.banner--contact .contact-card__image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+}
+
+*, :after, :before {
+    box-sizing: inherit;
 }

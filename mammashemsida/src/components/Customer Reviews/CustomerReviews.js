@@ -5,8 +5,8 @@ export const CustomerReviews = () => {
     return (
         <>
             <header>
-                <div className = "wrapper">
-                    <h1>Omdömen från ett urval kunder</h1>
+                <div className = "header">
+                    <h1 class="font-weight-light">Omdömen från ett urval kunder</h1>
                 </div>
             </header>
             <br></br>

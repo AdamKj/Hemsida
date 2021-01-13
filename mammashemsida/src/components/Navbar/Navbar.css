@@ -5,9 +5,9 @@
 
 .bar {
     vertical-align: center;
-    height: 200px;
+    height: 100px;
     position: relative;
-    background-image: url("../images/DSC01860.JPG");
+    
     box-shadow: 0 5px 20px rgba(0,0,0,.1);
     margin-bottom: 100px;
 }

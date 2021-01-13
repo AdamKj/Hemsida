@@ -6,8 +6,8 @@ export const Services = () => {
     <>
     <main>
         <header>
-            <div className = "wrapper">
-                <h1>Kvalificerade ekonomi- och redovisningstjänster</h1>
+            <div className = "header">
+                <h1 class="font-weight-light">Kvalificerade ekonomi- och redovisningstjänster</h1>
             </div>
         </header>
         <br/>

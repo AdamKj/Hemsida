@@ -7,7 +7,7 @@ import hklogo from '../images/hklogo.png'
 export const NavBar = () => {
     return (
       <div className="site-header">
-        <Navbar bg="transparent" expand="lg" className = "bar">
+        <Navbar expand="lg" className = "bar">
             <Navbar.Toggle aria-controls="basic-navbar-nav"/>
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mx-auto">
