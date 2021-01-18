@@ -1,5 +1,10 @@
 .main {
-    max-width: 1140px;
+    max-width: 500px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.review-text {
+    text-align: center;
+    margin-top: 30px;
 }

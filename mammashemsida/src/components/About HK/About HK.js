@@ -12,11 +12,11 @@ export const About = () => {
                     </div>
                 </header>
                 <br/>
-                <body>
+                <body class="font-weight-light">
                     <div className = "row">
                     <div className = "small-12 medium-7 large-7 column">
                         <h3>Mångårig erfarenhet och personlig service</h3>
-                            <p className = "page-content">Jag som driver HK Redovisning heter Helen Kjellberg.</p>
+                            <p className = "page-content"><strong>Jag som driver HK Redovisning heter Helen Kjellberg.</strong></p>
                             <br></br>
                             <p>Jag arbetar sedan många år som redovisningskonsult, och driver sedan 2013 en personlig redovisningsbyrå i Stenungsund. Majoriteten av mina kunder finns i Stenungsund med omnejd, men jag arbetar självklart även med kunder utanför kommunens gränser.</p>
                             <br></br>
