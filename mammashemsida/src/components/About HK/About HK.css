@@ -39,8 +39,19 @@
     overflow: hidden;
     background-color: #fff;
     z-index: 0;
-    margin-right: 100px;
+    margin-right: 70px;
     padding-bottom: 28%;
+    margin-top: 30px;
+}
+
+.banner__content {
+    text-align: center;
+    
+}
+
+.contact-card__content {
+    text-align: center;
+    margin-top: 50px;
 }
 
 .banner--contact .contact-card__image img {
@@ -49,6 +60,10 @@
     left: 0;
     width: 100%;
     height: auto;
+}
+
+.page-content {
+    margin-top: 50px;
 }
 
 *, :after, :before {

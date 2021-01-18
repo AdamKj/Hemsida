@@ -16,7 +16,7 @@ export const About = () => {
                     <div className = "row">
                     <div className = "small-12 medium-7 large-7 column">
                         <h3>Mångårig erfarenhet och personlig service</h3>
-                            <p>Jag som driver HK Redovisning heter Helen Kjellberg.</p>
+                            <p className = "page-content">Jag som driver HK Redovisning heter Helen Kjellberg.</p>
                             <br></br>
                             <p>Jag arbetar sedan många år som redovisningskonsult, och driver sedan 2013 en personlig redovisningsbyrå i Stenungsund. Majoriteten av mina kunder finns i Stenungsund med omnejd, men jag arbetar självklart även med kunder utanför kommunens gränser.</p>
                             <br></br>
@@ -25,7 +25,7 @@ export const About = () => {
                     <div className = "small-12 medium-5 large-4 column">
                         <div className = "banner banner--contact has-footer">
                             <div className = "banner__content">
-                                <h2 className = "heading-3 banner__title">Välkommen att ta kontakt!</h2>
+                                <h3 className = "heading-3 banner__title">Välkommen att ta kontakt!</h3>
                             </div>
                         <div className = "contact-card">
                             <div className = "contact-card__content">
