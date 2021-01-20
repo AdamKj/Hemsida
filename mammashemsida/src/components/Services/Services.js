@@ -11,7 +11,7 @@ export const Services = () => {
             </div>
         </header>
         <br/>
-        <body>
+        <body class="font-weight-light">
             <div className = "text">
                 <h2>Det här kan jag erbjuda</h2>
                     <p>Att leja bort bokföringen inte bara underlättar vardagen, det frigör även värdefull tid för annat som också måste göras.</p>
@@ -69,7 +69,7 @@ export const Services = () => {
             <div className = 'contact'>
                 <h2>Välkommen att ta kontakt!</h2>
                     <p>Epost: <a href="mailto:helen@hkredovisning.se">helen@hkredovisning.se</a></p>
-                     <p>Telefon: 070-239 00 22</p>
+                    <p>Telefon: <a href = "tel:0702390022" className = "contact-card__phone js-track-link" data-track-category = "phone">070-239 00 22</a></p>
             </div>
         </footer>
      </main>

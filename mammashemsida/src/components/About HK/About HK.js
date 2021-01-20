@@ -30,7 +30,7 @@ export const About = () => {
                         <div className = "contact-card">
                             <div className = "contact-card__content">
                                 <p>Epost: <a href="mailto:helen@hkredovisning.se" className = "contact-card__email js-track-link" data-track-category = "email">helen@hkredovisning.se</a></p>
-                                <a href = "tel:0702390022" className = "contact-card__phone js-track-link" data-track-category = "phone">070-239 00 22</a>
+                                <p>Telefon: <a href = "tel:0702390022" className = "contact-card__phone js-track-link" data-track-category = "phone">070-239 00 22</a></p>
                             </div>
                             <div className = "contact-card__image">
                                 <img src = {mammapappa} alt = "Helen Kjellberg"/>

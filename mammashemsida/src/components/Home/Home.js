@@ -8,7 +8,7 @@ export const Home = () => {
       <h1 class="font-weight-light">Vi kan redovisning</h1>
     </div>
     <br/>
-    <body>
+    <body class="font-weight-light">
       <div className = 'text'>
        <h2>Personligt, proffessionellt och pålitligt</h2>
         <p>Tycker du att redovisning är krångligt och tar för mycket av din tid? Kanske tycker du rentav att redovisning är svårt? </p>
@@ -27,7 +27,7 @@ export const Home = () => {
       <div className = 'contact'>
         <h2>Välkommen att ta kontakt!</h2>
           <p>Epost: <a href="mailto:helen@hkredovisning.se">helen@hkredovisning.se</a></p>
-          <p>Telefon: 070-239 00 22</p>
+          <p>Telefon: <a href = "tel:0702390022" className = "contact-card__phone js-track-link" data-track-category = "phone">070-239 00 22</a></p>
       </div>
     </footer>
   </>
